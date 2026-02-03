@@ -1,0 +1,16 @@
+
+🔹 What is Selenium?
+
+Selenium is an open-source automation testing tool used to test web applications.
+
+It automates browser actions like clicking, typing, navigating, and validating UI behavior.
+
+It supports multiple programming languages such as Java, Python, C#, JavaScript.
+
+🔹 Components of Selenium
+
+Selenium WebDriver – Automates browsers directly (most used).
+
+Selenium IDE – Record & playback tool (good for beginners).
+
+Selenium Grid – Runs tests on multiple browsers and machines in parallel.
